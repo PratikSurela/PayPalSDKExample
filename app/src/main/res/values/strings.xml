@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PayPalSDKExample</string>
+
+    <string name="product_title">Nexus 6P</string>
+    <string name="product_price">37998</string>
+    <string name="buy">Buy</string>
+    <string name="paypal_client_id">ATVRJ1pOjGxdmJURLoexa7MtQ1f-UbEAOLngR5wMhvNX43ndns0vn-W_fLtyy2FOr7762DwLaAxtmpye</string>
+</resources>
