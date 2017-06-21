@@ -4,7 +4,7 @@
 
 <p><strong>Step 1 :</strong>&nbsp;import module <strong>&quot;easypaypal&quot;</strong> into your project.</p>
 
-<p><strong>Step 2 :&nbsp;</strong>Declare and initilize <strong>&quot;PayPalPaymentMain&quot;</strong> class and than in onCreate() method</p>
+<p><strong>Step 2 :&nbsp;</strong>Declare and initialize <strong>&quot;PayPalPaymentMain&quot;</strong> class and than in onCreate() method</p>
 
 <p style="margin-bottom: 0.11cm; line-height: 100%"><code>payPalPaymentMain = new PayPalPaymentMain(context, PayPalConfiguration.ENVIRONMENT_SANDBOX, getString(R.string.paypal_client_id));<br />
 payPalPaymentMain.onPayPalPayment(strProductPrice, &quot;USD&quot;, strProductName, context);</code></p>
